@@ -1,3 +1,5 @@
+[claude](https://claude.ai/chat/f5bdb13d-c414-4faf-867f-950db8821acd)
+
 To convert your Colab notebook HTML with TOC into a Sphinx .rst file where the TOC appears in the left sidebar, you'll need to create a proper Sphinx project structure and generate RST content. Here's how to do it:
 1. Basic Sphinx Project Setup
 First, create a Sphinx project if you don't have one:
